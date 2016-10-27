@@ -1,3 +1,4 @@
 Git is a distributed version system
 Git is free software
 Creating a new branch is quick&simple.
+Merge has two mode:fast forward and no-off.
